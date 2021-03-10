@@ -1,0 +1,24 @@
+# Crawler
+
+# Python version
+3.8
+___
+
+# Install requirements
+pip install -r requirements.txt
+_______________________________
+
+## How to run
+python3 app.py irs
+__________________
+The second argument is used to select the crawler to execute, I added some assertions so we make sure the crawler exists.
+
+## Time to complete
+It took me a little more than 2 hours to complete the challenge and almost 15 minutes to write this "README" file
+
+## Output
+It outputs the results at ./iris_results.json and all the pdf downloads at ./downloads
+
+## How to set up
+Open config.json and add values to "irs".
+

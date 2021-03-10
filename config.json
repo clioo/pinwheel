@@ -1,0 +1,6 @@
+{
+    "irs": {
+        "values": ["Publ 54", "Publ 547"],
+        "criteria": "formNumber"
+    }
+}
